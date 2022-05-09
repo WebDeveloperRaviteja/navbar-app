@@ -8,7 +8,7 @@ import Demo from './Demo'
 import Navbar from '../Navbar/Navbar';
 import './App.css'
 import New from './New';
-
+// hear new file is added
 function App() {
   return (
     <div className="container">
