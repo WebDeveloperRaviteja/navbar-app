@@ -7,11 +7,13 @@ import Testimonial from './Testimonial';
 import Demo from './Demo'
 import Navbar from '../Navbar/Navbar';
 import './App.css'
+import New from './New';
 
 function App() {
   return (
     <div className="container">
       <Navbar />
+      <New />
     <BrowserRouter>
     <Routes>
       
